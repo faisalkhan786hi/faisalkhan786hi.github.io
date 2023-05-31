@@ -1297,7 +1297,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/bgg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/background.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2058,7 +2058,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	background: #313131 url(../images/background.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
